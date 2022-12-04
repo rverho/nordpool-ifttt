@@ -4,8 +4,8 @@ Gets day-ahead prices from [Nordpool](http://www.nordpoolspot.com/Market-data1/E
 
 ## Installation
     git clone https://github.com/samuelmr/nordpool-ifttt
-    npm install
     cd nordpool-ifttt
+    npm install
     cp config-sample.js config.js
     $EDITOR config.js
 
